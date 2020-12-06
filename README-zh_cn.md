@@ -1,5 +1,5 @@
 # hypixel服务器规则翻译
-本仓库用于存放 [hypixel服务器规则](https://hypixel.net/rules)规则的非官方译文
+本仓库用于存放 [hypixel服务器规则](https://hypixel.net/rules)的非官方译文
 ## todo:
 1. - [ ] 重制空岛生存规则的简中译文
 
