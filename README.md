@@ -1,7 +1,7 @@
 # UnofficialTranslations-of-Hypixel-Rules
 (Unofficial)Translations of [hypixel rules](https://hypixel.net/rules), including skyblock's
 ## todo:
-1. - [ ] remaster chinese(simplified) translation for skyblock rule
+1. - [ ] remaster chinese(simplified) translation of skyblock rule
 
 2. - [ ] translate other rules to simplified chinese
 
