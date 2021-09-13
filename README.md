@@ -10,4 +10,4 @@
 4. - [ ] ...
 
 # DISCLAIMER
-**The information contained on this REPO is for your information purposes only. You should not rely upon the information on the REPO as a basis for making any business, legal or any other decisions.**
+**The information contained on this REPO is for general information purposes only. You should not rely upon the information on the REPO as a basis for making any business, legal or any other decisions.**
